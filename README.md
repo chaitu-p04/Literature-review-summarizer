@@ -16,6 +16,9 @@ Google API Key (for the Google Generative AI API)
 
 PWC API Key (for the Papers with Code API)
 
+For front end: React Bootstrap
+For backend : Flask
+
 Setup
 Clone the repository or download the source code.
 Create a .env file in the project directory by removing the .example part in the '.env.example' file save it as .env

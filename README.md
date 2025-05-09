@@ -22,3 +22,6 @@ Create a .env file in the project directory by removing the .example part in the
 
 Finally
 Run the code
+
+Output screenshot:
+![Screenshot (57)](https://github.com/user-attachments/assets/83da00a7-0c51-4e46-b2cc-68e1cba77f30)

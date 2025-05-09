@@ -5,10 +5,15 @@ This program automates the process of summarizing research papers by extracting 
 Prerequisites
 Python 3.x
 requests library: pip install requests
+
 fitz library: pip install pymupdf
+
 dotenv library: pip install python-dotenv
+
 langchain_google_genai library: pip install --upgrade langchain-google-genai
-Google API Key (for the Google Generative AI API)
+
+Google API Key (for the Google Generative AI API)        
+
 PWC API Key (for the Papers with Code API)
 
 Setup
